@@ -1,4 +1,4 @@
-To Do List App / Portfolio Project 
+# To Do List App / Portfolio Project 
 # Introduction 
 My to do list app allows users to add, delete, and update tasks. The app also offers reminders and notifications to help users stay on track. With the app, users can also customize backgrounds and themes, organize tasks by priority or due date, and generate task reports for an overview of progress. With an intuitive and simple user interface, users of any skill level can take advantage of the app’s powerful features.
 # Installation 
